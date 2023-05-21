@@ -9,8 +9,10 @@ a {
   font-weight: bold;
 }
 
-.frontPage{
+.frontPage{''
 	background-color: #222222;
+	color: #DAD6C8;
+
 	height: 55vh;
 	margin: 0;
 	padding: 10% 10%;
@@ -22,9 +24,13 @@ a {
 
 .brandTitles h1{
 	font-size: 80px;
-	margin: -35px 0;
-	color: #DAD6C8;
 	font-family: Arial, sans-serif;
+
+	margin: -35px 0;
+}
+
+.contacts{
+	margin-top: 50vh;
 }
 
 .worksShowcase {
