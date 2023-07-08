@@ -33,12 +33,13 @@ a {
 	margin-top: 50vh;
 }
 
-.worksShowcase {
+#worksShowcase {
 	background-color: #DAD6C8;
 	color: #222222;
 
 	margin: 0;
 	padding: 10% 10%;
+	height: 100vh;
 }
 
 .workContainer{
