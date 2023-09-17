@@ -21,6 +21,8 @@ a {
 .brandTitles h1{
 	font-size: 80px;
 	font-family: Arial, sans-serif;
+	/* color | offset-x | offset-y | blur-radius */
+	text-shadow: #7d786a 3px 3px 0;
 
 	margin: -35px 0;
 }
