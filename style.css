@@ -1,5 +1,5 @@
-html, body {margin: 0;}
-body { font-family: "Courier New", Courier, monospace }
+html, body {margin: 0; scroll-snap-type: y mandatory;}
+body { font-family: "Courier New", Courier, monospace; }
 
 /* Link Styling */
 a {
@@ -12,6 +12,8 @@ a {
 .frontPage{
 	background-image: url("images/water color/black.jpg");
 	color: #DAD6C8;
+
+  scroll-snap-align: start;
 
 	height: 55vh;
 	margin: 0;
@@ -34,6 +36,7 @@ a {
 #worksShowcase {
 	background-image: url("images/water color/beige.jpg");
 	color: #222222;
+  scroll-snap-align: start;
 
 	margin: 0;
 	padding: 10% 10%;
