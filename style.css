@@ -10,7 +10,7 @@ a {
 }
 
 .frontPage{
-	background-image: url("watercolor-black.jpg");
+	background-image: url("images/water color/black.jpg");
 	color: #DAD6C8;
 
 	height: 55vh;
@@ -32,7 +32,7 @@ a {
 }
 
 #worksShowcase {
-	background-image: url("watercolor-beige.jpg");
+	background-image: url("images/water color/beige.jpg");
 	color: #222222;
 
 	margin: 0;
