@@ -10,7 +10,7 @@ a {
 }
 
 .frontPage{
-	background-color: #222222;
+	background-image: url("watercolor-black.jpg");
 	color: #DAD6C8;
 
 	height: 55vh;
@@ -34,7 +34,7 @@ a {
 }
 
 #worksShowcase {
-	background-color: #DAD6C8;
+	background-image: url("watercolor-beige.jpg");
 	color: #222222;
 
 	margin: 0;
@@ -42,7 +42,8 @@ a {
 	height: 100vh;
 }
 
-.workContainer{
+.workContainer{	
+	background-color: #DAD6C8;
 	width: 30%;
 
 	border-radius: 3px;
@@ -58,7 +59,6 @@ a {
   text-align: center;
 }
 .workContainer:hover{
-
   box-shadow: 20px 20px 0 rgba(0, 0, 0, 0.5);
 }
 .workContainer h2{
